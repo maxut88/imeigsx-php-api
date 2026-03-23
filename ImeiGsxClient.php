@@ -14,7 +14,7 @@ use Exception;
 class Client
 {
     private $apiKey;
-    private $baseUrl = 'https://www.imeigsx.com/api/v1/check';
+    private $baseUrl = 'https://www.imeigsx.com/api/v1';
 
     /**
      * Initialize the API Client
